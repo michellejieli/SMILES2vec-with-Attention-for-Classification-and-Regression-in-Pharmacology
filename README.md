@@ -6,4 +6,4 @@ both consider the latent embedding from encoded SMILES to predict chemical prope
 of each atom within the molecule. We will analyze the models’ performances on predicting toxicity for compounds in the ClinTox dataset and skin reaction 
 for compounds in the Skin Reaction dataset, and extrapolate the effectiveness of adding a custom attention layer into an existing RNN. 
 
-Check the notebook for work and results.
+This repo contains a Google Colab notebook where the work and findings are located. 
