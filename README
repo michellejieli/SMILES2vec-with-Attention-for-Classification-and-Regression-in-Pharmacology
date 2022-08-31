@@ -5,4 +5,5 @@ version of SMILES2vec with an attention mechanism implemented. The deep RNN, SMI
 both consider the latent embedding from encoded SMILES to predict chemical properties with one key difference: the use of attention to consider the context 
 of each atom within the molecule. We will analyze the models’ performances on predicting toxicity for compounds in the ClinTox dataset and skin reaction 
 for compounds in the Skin Reaction dataset, and extrapolate the effectiveness of adding a custom attention layer into an existing RNN. 
-Check the notebook for work and results. 
+
+Check the notebook for work and results.
