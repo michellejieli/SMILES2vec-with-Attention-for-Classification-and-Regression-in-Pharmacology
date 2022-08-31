@@ -1,3 +1,5 @@
+SMILES2vec with Attention for Classification and Regression in Pharmacology
+
 Deep learning methods have been useful for de novo drug design and drug prediction. In recent years, many different types of networks have emerged to study 
 the relationship between molecular structure and properties as well as improve network performance. In this project, we will compare and contrast the 
 ability to predict chemical properties given SMILES between SMILES2vec, a recurrent neural network (RNN), a message passing neural network (MPNN) and our 
